@@ -15,7 +15,7 @@ import { DetailsComponent } from './details/details.component';
     SidebarComponent,
     PostsComponent,
     UsersComponent,
-    DetailsComponent
+    DetailsComponent,
   ],
   imports: [
     BrowserModule,
